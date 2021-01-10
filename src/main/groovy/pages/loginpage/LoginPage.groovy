@@ -1,4 +1,4 @@
-package pages.loginpage
+package pages.loginpage;
 
 import com.shaft.gui.browser.BrowserActions
 import com.shaft.gui.browser.BrowserFactory
@@ -12,12 +12,15 @@ import static locators.loginpage.LoginPageLocators.*
 
 @Slf4j
 class LoginPage {
+
     public WebDriver driver = BrowserFactory.getBrowser()
 
     @Step
-    def navigateTo(String URI){
+     LoginPage navigateTo(String URI) {
         BrowserActions.navigateToURL(driver, URI)
         ElementActions.click(driver, By.cssSelector(LOGIN_BTN) )
         return this
     }
+
+
 }
