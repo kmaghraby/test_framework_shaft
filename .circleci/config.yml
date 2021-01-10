@@ -9,5 +9,3 @@ workflows:
     jobs:
       - maven/test # checkout, build, test, and upload test results
       
-       steps:
-      - run: store_test_results
