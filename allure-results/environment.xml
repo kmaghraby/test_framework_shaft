@@ -30,7 +30,7 @@
   </parameter>
   <parameter>
     <key>sun.java.command</key>
-    <value>/Users/kareem.elmaghraby/IdeaProjects/test_framework_shaft/target/surefire/surefirebooter9862764214425678489.jar /Users/kareem.elmaghraby/IdeaProjects/test_framework_shaft/target/surefire 2021-01-10T22-50-43_451-jvmRun1 surefire9548484075854641924tmp surefire_01377238815163979075tmp</value>
+    <value>/Users/kareem.elmaghraby/IdeaProjects/test_framework_shaft/target/surefire/surefirebooter1383636580624150309.jar /Users/kareem.elmaghraby/IdeaProjects/test_framework_shaft/target/surefire 2021-01-10T23-05-39_839-jvmRun1 surefire5456300243068909752tmp surefire_05486913601661905804tmp</value>
   </parameter>
   <parameter>
     <key>jdk.debug</key>
@@ -354,7 +354,7 @@
   </parameter>
   <parameter>
     <key>headlessExecution</key>
-    <value>false</value>
+    <value>true</value>
   </parameter>
   <parameter>
     <key>user.name</key>
@@ -398,7 +398,7 @@
   </parameter>
   <parameter>
     <key>openAllureReportAfterExecution</key>
-    <value>true</value>
+    <value>false</value>
   </parameter>
   <parameter>
     <key>allureVersion</key>
@@ -438,7 +438,7 @@
   </parameter>
   <parameter>
     <key>surefire.real.class.path</key>
-    <value>/Users/kareem.elmaghraby/IdeaProjects/test_framework_shaft/target/surefire/surefirebooter9862764214425678489.jar</value>
+    <value>/Users/kareem.elmaghraby/IdeaProjects/test_framework_shaft/target/surefire/surefirebooter1383636580624150309.jar</value>
   </parameter>
   <parameter>
     <key>shellSessionTimeout</key>

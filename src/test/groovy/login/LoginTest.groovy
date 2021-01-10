@@ -8,7 +8,7 @@ import org.testng.annotations.Test
 import pages.loginpage.LoginPage
 import commons.annotations.retry.Retry
 
- class LoginTest {
+class LoginTest {
 
     @Autowired
     @Lazy
@@ -18,7 +18,6 @@ import commons.annotations.retry.Retry
     @Link("TC_001")
     @Test(description = "TC_01 - Login Functionality Test" ,retryAnalyzer = Retry)
      void loginTest(){
-
         loginPage.navigateTo(url)
 
     }
