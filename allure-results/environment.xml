@@ -30,7 +30,7 @@
   </parameter>
   <parameter>
     <key>sun.java.command</key>
-    <value>/Users/kareem.elmaghraby/IdeaProjects/test_framework_shaft/target/surefire/surefirebooter4840382679350232905.jar /Users/kareem.elmaghraby/IdeaProjects/test_framework_shaft/target/surefire 2021-01-10T22-48-29_818-jvmRun1 surefire822852838036778013tmp surefire_018114781809426162640tmp</value>
+    <value>/Users/kareem.elmaghraby/IdeaProjects/test_framework_shaft/target/surefire/surefirebooter9862764214425678489.jar /Users/kareem.elmaghraby/IdeaProjects/test_framework_shaft/target/surefire 2021-01-10T22-50-43_451-jvmRun1 surefire9548484075854641924tmp surefire_01377238815163979075tmp</value>
   </parameter>
   <parameter>
     <key>jdk.debug</key>
@@ -438,7 +438,7 @@
   </parameter>
   <parameter>
     <key>surefire.real.class.path</key>
-    <value>/Users/kareem.elmaghraby/IdeaProjects/test_framework_shaft/target/surefire/surefirebooter4840382679350232905.jar</value>
+    <value>/Users/kareem.elmaghraby/IdeaProjects/test_framework_shaft/target/surefire/surefirebooter9862764214425678489.jar</value>
   </parameter>
   <parameter>
     <key>shellSessionTimeout</key>
