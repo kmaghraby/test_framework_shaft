@@ -9,7 +9,7 @@ import org.testng.annotations.Test
 import pages.loginpage.LoginPage;
 
 
-class LoginTests {
+class LoginTest {
 
     @Autowired @Lazy
     LoginPage loginPage
