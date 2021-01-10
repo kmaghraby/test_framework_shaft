@@ -1,5 +1,0 @@
-language: java
-java:
--15.0.1
-
-script: ./mvnw clean install
